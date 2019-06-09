@@ -1,0 +1,96 @@
+C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/ALU.v {1 {vlog -work work -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory_interface.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory_interface.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_memory_interface
+
+Top level modules:
+	test_memory_interface
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/ppu_states.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/ppu_states.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ppu_states
+
+Top level modules:
+	ppu_states
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/clock_divider.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/clock_divider.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/controller_testbench.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/controller_testbench.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller_testbench
+
+Top level modules:
+	controller_testbench
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_ppu_memory.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_ppu_memory.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_ppu_memory
+
+Top level modules:
+	test_ppu_memory
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/controller_interface.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/controller_interface.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller_interface
+
+Top level modules:
+	controller_interface
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/cpu.v {1 {vlog -work work -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/PPU.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/PPU.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PPU
+
+Top level modules:
+	PPU
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/NES.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/NES.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NES
+
+Top level modules:
+	NES
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/cpu_testbench.sv {1 {vlog -work work -sv -stats=none {C:\Users\tomvi\Documents\Repositories\ECE-385-2019\final_project\cpu_testbench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu_testbench
+
+Top level modules:
+	cpu_testbench
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv {2 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_memory
+** Warning: C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv(104): (vlog-2697) MSB of part-select into 'mem_array' is out of bounds.
+** Warning: C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv(104): (vlog-2697) LSB of part-select into 'mem_array' is out of bounds.
+** Warning: C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv(104): (vlog-2697) MSB of part-select into 'I_O' is out of bounds.
+** Warning: C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/test_memory.sv(104): (vlog-2697) LSB of part-select into 'I_O' is out of bounds.
+
+Top level modules:
+	test_memory
+
+} {} {}} C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/VGA_controller.sv {1 {vlog -work work -sv -stats=none C:/Users/tomvi/Documents/Repositories/ECE-385-2019/final_project/VGA_controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VGA_controller
+
+Top level modules:
+	VGA_controller
+
+} {} {}}
