@@ -10,8 +10,12 @@
 # *.v
 # *.sdc
 
+# Ignore sublime files
+*.sublime-project
+*.sublime-workspace
+
 # Ignore modelsim files
-final_project/modelsim/
+modelsim/
 
 # ignore Quartus II generated folders
 *_sim
