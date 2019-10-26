@@ -10,6 +10,9 @@
 # *.v
 # *.sdc
 
+# Ignore VCD files from sim
+*.vcd
+
 # Ignore sublime files
 *.sublime-project
 *.sublime-workspace
